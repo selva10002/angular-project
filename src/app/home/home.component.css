@@ -1,0 +1,14 @@
+/* id="un"      #un
+  <body>     body
+  class="home"    .home */
+
+
+  body
+  {
+    background-image: url("../../assets/bg.jpg");
+    height: 700px;
+  }
+ a
+ {
+    color: white;
+ }
